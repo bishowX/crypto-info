@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer base {
+	.coin-desc > h3 {
+		@apply text-xl font-bold py-3 text-indigo-800;
+	}
+
+	.coin-desc > p {
+		@apply text-base tracking-wide text-slate-700 font-medium;
+	}
+}
