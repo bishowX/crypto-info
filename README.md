@@ -1,5 +1,6 @@
 # crypto-info
 ## See details about crypto currency
+ [view live](https://crypto-info-h9wcre33p-bishowx.vercel.app/)
 
 ![Home Page](https://user-images.githubusercontent.com/94373953/170260604-e5db9668-78dd-4374-8e7a-845b8621de02.png)
 
