@@ -1,9 +1,12 @@
 # crypto-info
-See details about crypto currency
+## See details about crypto currency
+
 ![Home Page](https://user-images.githubusercontent.com/94373953/170260604-e5db9668-78dd-4374-8e7a-845b8621de02.png)
-![Detail Page](https://user-images.githubusercontent.com/94373953/170260627-671ef66d-6400-4090-91d5-56c006dc131d.png)
+
+![crypto-info-detail](https://user-images.githubusercontent.com/94373953/170272515-2a283fb3-4464-4657-99db-59e699534953.png)
 
 # For development
+
 ### This project was built with React Js using vite as build tool.
 ### Use your api key in .env file
 ### find more info about api used https://rapidapi.com/Coinranking/api/coinranking1/
