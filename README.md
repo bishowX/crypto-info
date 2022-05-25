@@ -1,3 +1,16 @@
+# crypto-info
+See details about crypto currency
+![Home Page](https://user-images.githubusercontent.com/94373953/170260604-e5db9668-78dd-4374-8e7a-845b8621de02.png)
+![Detail Page](https://user-images.githubusercontent.com/94373953/170260627-671ef66d-6400-4090-91d5-56c006dc131d.png)
+
+# For development
+### This project was built with React Js using vite as build tool.
+### Use your api key in .env file
+### find more info about api used https://rapidapi.com/Coinranking/api/coinranking1/
+
+If you want to contribute feel free to open a pr that would be awesome.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
