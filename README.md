@@ -8,7 +8,7 @@
 
 # For development
 
-### This project was built with React Js using vite as build tool.
+### This project was built with React Js.
 ### Use your api key in .env file
 ### find more info about api used https://rapidapi.com/Coinranking/api/coinranking1/
 
